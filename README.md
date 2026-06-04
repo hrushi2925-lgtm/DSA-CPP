@@ -1,2 +1,10 @@
 # DSA-CPP
-My DSA and LeetCode solutions in C++
+
+My Data Structures and Algorithms practice repository.
+
+## Solved Problems
+
+- Two Sum
+- Contains Duplicate
+
+Language: C++
